@@ -107,5 +107,8 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
   <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=blueviolet" alt="Contador de visitas do perfil" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4i5and0&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub animado"/>
+</div>
 
 
