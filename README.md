@@ -93,7 +93,6 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
   </table>
 </div>
 
-
 ---
 
 ## 📊 Minhas Estatísticas do GitHub
@@ -112,3 +111,14 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
   <img src="https://copilot.microsoft.com/th/id/BCO.10418eb7-fb00-4155-ba26-34f1b842a66c.png" alt="Banner animado roxo com nuvens" width="600"/>
 </div>
 
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R4i5and0/R4i5and0/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/R4i5and0/R4i5and0/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://github.com/R4i5and0/R4i5and0/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
