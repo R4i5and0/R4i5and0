@@ -108,4 +108,7 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
   <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=blueviolet" alt="Contador de visitas do perfil" />
 </div>
 
+<div align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.10418eb7-fb00-4155-ba26-34f1b842a66c.png" alt="Banner animado roxo com nuvens" width="600"/>
+</div>
 
