@@ -108,7 +108,7 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4i5and0&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub animado"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4i5and0&bg_color=1f1b2e&color=c084fc&line=c084fc&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub animado"/>
 </div>
 
 
