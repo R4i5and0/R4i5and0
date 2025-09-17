@@ -82,9 +82,7 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
         <br>Visual Studio
       </td>
-      <td align="center" width="120">
-   🗄️<br>DBeaver
-      </td>
+      <img src="https://techicons.dev/icons/dbeaver/png/dbeaver-480x480.png" width="40" height="40" alt="DBeaver" />
       <td align="center" width="120">
         <img src="https://www.phpmyadmin.net/static/images/logo.png" width="40" height="40" alt="phpMyAdmin" />
         <br>phpMyAdmin
