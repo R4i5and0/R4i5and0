@@ -38,57 +38,67 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
 ## 🛠️ Habilidades e Ferramentas
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL" />
-        <br>SQL
-      </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
-        <br>Android Studio
-      </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-        <br>CSS3
-      </td>
-       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-        <br>Git
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <br>Redes & Infra
-      </td>
-      <td align="center" width="120">
-        <br>Suporte Técnico
-      </td>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL" />
+        <br>SQL
+      </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
         <br>SQLite
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
+        <br>Android Studio
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+        <br>CSS3
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+        <br>Git
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="40" height="40" alt="NetBeans" />
+        <br>NetBeans
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ" />
         <br>IntelliJ
       </td>
       <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
+        <br>Visual Studio
+      </td>
+      <td align="center" width="120">
         <br>DBeaver
       </td>
       <td align="center" width="120">
-        <img src="https://www.phpmyadmin.net/static/images/logo-og.png" width="40" height="40" alt="phpMyAdmin" />
+        <img src="https://www.phpmyadmin.net/static/images/logo.png" width="40" height="40" alt="phpMyAdmin" />
         <br>phpMyAdmin
       </td>
-    </tr>
-  </table>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <br>Infraestrutura
+      </td>
+      <td align="center" width="120">
+        <br>Suporte Técnico
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 📚 Atualmente Estudando
