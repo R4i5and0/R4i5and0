@@ -41,27 +41,27 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" />
         <br>Java
       </td>
       <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
         <br>SQL
       </td>
       <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
         <br>SQLite
       </td>
       <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
         <br>Android Studio
       </td>
       <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
         <br>HTML5
       </td>
       <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
         <br>CSS3
       </td>
       <td align="center" width="120">
@@ -71,7 +71,7 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/NetBeans_Logo.svg" width="40" height="40" alt="NetBeans" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="40" height="40" alt="NetBeans" />
         <br>NetBeans
       </td>
       <td align="center" width="120">
@@ -83,11 +83,11 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
         <br>Visual Studio
       </td>
       <td align="center" width="120">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/DBeaver_logo.png" width="40" height="40" alt="DBeaver" />
+        <img src="https://dbeaver.io/wp-content/uploads/2021/10/dbeaver-head.png" width="40" height="40" alt="DBeaver" />
         <br>DBeaver
       </td>
       <td align="center" width="120">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/PhpMyAdmin_logo.png" width="40" height="40" alt="phpMyAdmin" />
+        <img src="https://www.phpmyadmin.net/static/images/logo.png" width="40" height="40" alt="phpMyAdmin" />
         <br>phpMyAdmin
       </td>
     </tr>
@@ -108,7 +108,7 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
         <br>AWS Cloud Computing
       </td>
       <td align="center" width="120">
