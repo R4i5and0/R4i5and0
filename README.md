@@ -49,6 +49,10 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
         <br>SQL
       </td>
       <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
+        <br>SQLite
+      </td>
+      <td align="center" width="120">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
         <br>Android Studio
       </td>
@@ -60,9 +64,31 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
         <br>CSS3
       </td>
-       <td align="center" width="120">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
         <br>Git
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/NetBeans_Logo.svg" width="40" height="40" alt="NetBeans" />
+        <br>NetBeans
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ" />
+        <br>IntelliJ
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
+        <br>Visual Studio
+      </td>
+      <td align="center" width="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/DBeaver_logo.png" width="40" height="40" alt="DBeaver" />
+        <br>DBeaver
+      </td>
+      <td align="center" width="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/PhpMyAdmin_logo.png" width="40" height="40" alt="phpMyAdmin" />
+        <br>phpMyAdmin
       </td>
     </tr>
     <tr>
@@ -106,4 +132,3 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=blueviolet" alt="Contador de visitas do perfil" />
 </div>
-
