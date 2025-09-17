@@ -41,11 +41,11 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" />
         <br>Java
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL" />
         <br>SQL
       </td>
       <td align="center" width="120">
@@ -53,15 +53,15 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
         <br>SQLite
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
         <br>Android Studio
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
         <br>HTML5
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
         <br>CSS3
       </td>
       <td align="center" width="120">
@@ -80,9 +80,13 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
-        <br>Visual Studio<td align="center" width="180">
-     🗄️<br>DBeaver
-       </td>
+        <br>Visual Studio
+      </td>
+      <td align="center" width="120">
+        <img src="https://techicons.dev/icons/dbeaver/png/dbeaver-480x480.png" width="40" height="40" alt="DBeaver" />
+        <br>DBeaver
+      </td>
+      <td align="center" width="120">
         <img src="https://www.phpmyadmin.net/static/images/logo.png" width="40" height="40" alt="phpMyAdmin" />
         <br>phpMyAdmin
       </td>
@@ -93,23 +97,6 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
       </td>
       <td align="center" width="120">
         <br>Suporte Técnico
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 📚 Atualmente Estudando
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
-        <br>AWS Cloud Computing
-      </td>
-      <td align="center" width="120">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" />
-        <br>Inteligência Artificial
       </td>
     </tr>
   </table>
