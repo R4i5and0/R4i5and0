@@ -1,29 +1,42 @@
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/3dkZSFc0Yn24DebLb3/giphy.gif" alt="Banner animado de um cérebro com conexões neurais" width="600"/>
-  
-  <h1>
-    Olá, eu sou a Raissa Anunciação 👋
-  </h1>
-  
+
+  <img src="https://media.giphy.com/media/3dkZSFc0Yn24DebLb3/giphy.gif" alt="Banner animado de um cérebro com conexões neurais" width="600"/>
+
+  <h1>
+    Olá, eu sou a Raissa Anunciação 👋
+  </h1>
+
 <h3>
-  Desenvolvedora com foco em Cloud, Segurança e IA
+  Desenvolvedora com foco em Cloud, Segurança e IA
 </h3>
 <h4>
-  Último semestre do curso de Análise e Desenvolvimento de Sistemas
+  Último semestre do curso de Análise e Desenvolvimento de Sistemas
 </h4>
-  
-  <p align="center">
-    <a href="mailto:raissaanunc@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://www.linkedin.com/in/raissaanunciacaoagroutopia/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
+
+  <p align="center">
+    <a href="mailto:raissaanunc@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/raissaanunciacaoagroutopia/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
 </div>
 
+
 ---
+
+## 👩‍💻 Sobre Mim
+
+Há três anos, fiz minha transição de carreira para a área de TI. Essa jornada me proporcionou uma base em **infraestrutura**, com certificações em Suporte, Redes e Desenvolvimento Web, e experiência prática em **suporte técnico e telecomunicações**.
+
+Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da Informação, Cloud Computing e Inteligência Artificial**. Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce que garante a confiança nesses sistemas. Por isso, estou me dedicando a aprender como construir e proteger essa nova geração de aplicações inteligentes.
+
+💚 Também tenho um forte interesse em **sustentabilidade** e no potencial da tecnologia para criar soluções inovadoras e responsáveis.
+
+---
+
+
 
 ## 👩‍💻 Sobre Mim
 
