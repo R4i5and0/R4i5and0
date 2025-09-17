@@ -79,7 +79,6 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
         <br>IntelliJ
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
         <br>Visual Studio
       </td>
       <td align="center" width="120">
