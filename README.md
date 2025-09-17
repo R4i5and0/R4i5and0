@@ -83,7 +83,7 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
         <br>Visual Studio
       </td>
       <td align="center" width="120">
-        <img src="https://dbeaver.io/wp-content/uploads/2021/10/dbeaver-head.png" width="40" height="40" alt="DBeaver" />
+        <img src="https://raw.githubusercontent.com/dbeaver/dbeaver/master/docs/images/dbeaver-logo.png" width="40" height="40" alt="DBeaver" />
         <br>DBeaver
       </td>
       <td align="center" width="120">
