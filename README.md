@@ -35,89 +35,88 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Habilidades e Ferramentas
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
-
-### **Linguagens e Banco de Dados**
+### Habilidades
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-        <br>MySQL
-      </td>
-      <td align="center" width="120">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL" />
+        <br>SQL
+      </td>
+       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
         <br>SQLite
       </td>
-       <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-        <br>HTML5
-      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+       <br>HTML5
+      </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+        <br>CSS3
+      </td>
+    </tr>
+     <tr>
       <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-        <br>CSS3
-      </td>
+       <br>Redes & Infra
+      </td>
+      <td align="center" width="120">
+       <br>Suporte Técnico
+      </td>
     </tr>
-  </table>
+  </table>
 </div>
 
-### **Ferramentas e IDEs**
+### Ferramentas
 <div align="center">
-  <table>
-    <tr>
+  <table>
+    <tr>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-        <br>Git
-      </td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+        <br>Git
+      </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ" />
         <br>IntelliJ
       </td>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
+       <br>Android Studio
+      </td>
       <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
-        <br>Android Studio
-      </td>
-      <td align="center" width="120">
-        <img src="https://dbeaver.io/img/dbeaver-logo.png" width="40" height="40" alt="DBeaver" />
+        <img src="https://static-00.iconduck.com/assets.00/dbeaver-icon-512x512-5q5j07l4.png" width="40" height="40" alt="DBeaver" />
         <br>DBeaver
       </td>
       <td align="center" width="120">
         <img src="https://www.phpmyadmin.net/static/images/logo-og.png" width="40" height="40" alt="phpMyAdmin" />
         <br>phpMyAdmin
       </td>
-    </tr>
-  </table>
+    </tr>
+  </table>
 </div>
 
-### **Infraestrutura e Conceitos**
+### 📚 Atualmente Estudando
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <br>Redes e Infra
-      </td>
-      <td align="center" width="120">
-        <br>Suporte Técnico
-      </td>
-    </tr>
-  </table>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
+        <br>AWS Cloud Computing
+      </td>
+      <td align="center" width="120">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" />
+       <br>Inteligência Artificial
+      </td>
+    </tr>
+  </table>
 </div>
-
----
-
-## 📚 Atualmente Estudando
-
-Estou sempre em busca de novos conhecimentos para alcançar meus objetivos. No momento, meus estudos estão focados em:
-
-- ☁️ **Cloud Computing (AWS):** Aprofundando nos serviços essenciais (EC2, S3, VPC, RDS) e me preparando para a certificação **AWS Certified Cloud Practitioner**.
-- 🧠 **Inteligência Artificial:** Explorando os fundamentos de Machine Learning e frameworks como **TensorFlow** para criar aplicações inteligentes e seguras.
-- 🛡️ **Segurança da Informação:** Estudando as melhores práticas para proteger ambientes em nuvem e aplicações.
 
 ---
 
