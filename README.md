@@ -1,29 +1,27 @@
 <div align="center">
-
-  <img src="https://media.giphy.com/media/3dkZSFc0Yn24DebLb3/giphy.gif" alt="Banner animado de um cérebro com conexões neurais" width="600"/>
-
-  <h1>
-    Olá, eu sou a Raissa Anunciação 👋
-  </h1>
-
+  
+  <img src="https://media.giphy.com/media/3dkZSFc0Yn24DebLb3/giphy.gif" alt="Banner animado de um cérebro com conexões neurais" width="600"/>
+  
+  <h1>
+    Olá, eu sou a Raissa Anunciação 👋
+  </h1>
+  
 <h3>
-  Desenvolvedora com foco em Cloud, Segurança e IA
+  Desenvolvedora com foco em Cloud, Segurança e IA
 </h3>
 <h4>
-  Último semestre do curso de Análise e Desenvolvimento de Sistemas
+  Último semestre do curso de Análise e Desenvolvimento de Sistemas
 </h4>
-
-  <p align="center">
-    <a href="mailto:raissaanunc@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://www.linkedin.com/in/raissaanunciacaoagroutopia/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
+  
+  <p align="center">
+    <a href="mailto:raissaanunc@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/raissaanunciacaoagroutopia/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
 </div>
-
----
 
 ## 👩‍💻 Sobre Mim
 
@@ -33,76 +31,93 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
 
 💚 Também tenho um forte interesse em **sustentabilidade** e no potencial da tecnologia para criar soluções inovadoras e responsáveis.
 
----
-
 ## 🛠️ Habilidades e Ferramentas
 
+### Habilidades
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" />
-        <br>Java
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL" />
+        <br>SQL
+      </td>
+       <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
+        <br>SQLite
       </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL" />
-        <br>SQL
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+       <br>HTML5
+      </td>
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+        <br>CSS3
+      </td>
+      <td align="center" width="90">
+       <br>Redes & Infra
+      </td>
+      <td align="center" width="90">
+       <br>Suporte Técnico
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Ferramentas
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ" />
+        <br>IntelliJ
       </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
-        <br>Android Studio
+      <td align="center" width="90">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
+       <br>Android Studio
+      </td>
+      <td align="center" width="90">
+        <br>DBeaver
       </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-        <br>HTML5
+      <td align="center" width="90">
+        <img src="https://www.phpmyadmin.net/static/images/logo-og.png" width="40" height="40" alt="phpMyAdmin" />
+        <br>phpMyAdmin
       </td>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-        <br>CSS3
-      </td>
-       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-        <br>Git
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <br>Redes & Infra
-      </td>
-      <td align="center" width="120">
-        <br>Suporte Técnico
-      </td>
-    </tr>
-  </table>
+    </tr>
+  </table>
 </div>
 
 ### 📚 Atualmente Estudando
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
-        <br>AWS Cloud Computing
-      </td>
-      <td align="center" width="120">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" />
-        <br>Inteligência Artificial
-      </td>
-    </tr>
-  </table>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
+        <br>AWS Cloud Computing
+      </td>
+      <td align="center" width="120">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" />
+       <br>Inteligência Artificial
+      </td>
+    </tr>
+  </table>
 </div>
-
----
 
 ## 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=7&theme=dracula&hide=hack,php"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=7&theme=dracula&hide=hack,php"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=blueviolet" alt="Contador de visitas do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=blueviolet" alt="Contador de visitas do perfil" />
 </div>
