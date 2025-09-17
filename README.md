@@ -35,26 +35,7 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
 
 ---
 
-## 🧠 Habilidades
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <br>Redes & Infra
-        <br><a href="https://www.cisco.com/c/pt_br/training-events/training-certifications/certifications.html" target="_blank">Cisco Certificações</a>
-      </td>
-      <td align="center" width="120">
-        <br>Suporte Técnico
-        <br><a href="https://www.comptia.org/certifications/a" target="_blank">CompTIA A+</a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🛠️ Ferramentas
+## 🛠️ Habilidades e Ferramentas
 
 <div align="center">
   <table>
@@ -64,7 +45,7 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
         <br>Java
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL" />
         <br>SQL
       </td>
       <td align="center" width="120">
@@ -102,12 +83,20 @@ Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da 
         <br>Visual Studio
       </td>
       <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/dbeaver/dbeaver/master/docs/images/dbeaver-logo.png" width="40" height="40" alt="DBeaver" />
+        <img src="https://dbeaver.io/wp-content/uploads/2021/10/dbeaver-head.png" width="40" height="40" alt="DBeaver" />
         <br>DBeaver
       </td>
       <td align="center" width="120">
         <img src="https://www.phpmyadmin.net/static/images/logo.png" width="40" height="40" alt="phpMyAdmin" />
         <br>phpMyAdmin
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <br>Redes & Infra
+      </td>
+      <td align="center" width="120">
+        <br>Suporte Técnico
       </td>
     </tr>
   </table>
