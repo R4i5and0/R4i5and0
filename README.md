@@ -24,7 +24,7 @@
 
 Há três anos, fiz minha transição de carreira para a área de TI. Hoje tenho base sólida em **infraestrutura, suporte técnico, redes e desenvolvimento**, com experiência prática em telecomunicações.
 
-Meu objetivo é atuar na interseção entre **Segurança da Informação**, **Cloud Computing** e **Inteligência Artificial** — crenço que a nuvem é onde a IA prospera, e a segurança é o alicerce que garante confiança para sistemas inteligentes.
+Meu objetivo é atuar na interseção entre **Segurança da Informação**, **Cloud Computing** e **Inteligência Artificial** — acredito que a nuvem é onde a IA prospera, e a segurança é o alicerce que garante confiança para sistemas inteligentes.
 
 Também tenho interesse em **tecnologia sustentável e soluções inovadoras responsáveis**.
 
@@ -94,11 +94,22 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 
 </div>
 
-
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=blueviolet" />
 </div>
 
+---
+
+<!-- PAC-MAN: positionado mais embaixo, conforme pedido -->
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-pacman.svg" alt="pacman eating commits" />
+</div>
+
+---
+
+<!-- Se quiser usar a versão local do arquivo que você enviou (fallback/exemplo),
+     o caminho local é: /mnt/data/9c2dcb2d-cf0d-4ed8-8896-c23eb8d445e5.png
+     (o sistema transforma esse caminho em URL automaticamente quando necessário) -->
 
