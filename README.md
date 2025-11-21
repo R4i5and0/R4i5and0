@@ -122,10 +122,8 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 
 
 ---
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=blueviolet"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4i5and0&theme=tokyo-night&area=true&hide_border=true&animated=true" width="95%"/>
 </div>
-
 
 
