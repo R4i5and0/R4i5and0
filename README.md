@@ -71,15 +71,16 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 <div align="center">
 <table>
 <tr>
-  <td align="center" width="160">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55"/><br>AWS Cloud
+  <td align="center" width="150">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/><br>AWS Cloud Computing
   </td>
-  <td align="center" width="160">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="55"/><br>IA e Deep Learning
+  <td align="center" width="150">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/><br>Inteligência Artificial
   </td>
 </tr>
 </table>
 </div>
+
 
 ---
 
