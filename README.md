@@ -101,16 +101,4 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
   <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=blueviolet" />
 </div>
 
----
-
-![Snake animation](https://github.com/R4i5and0/R4i5and0/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-pacman.svg" />
----
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-pacman.svg" alt="pacman eating commits" />
-</div>
 
