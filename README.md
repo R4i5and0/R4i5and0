@@ -119,7 +119,7 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4i5and0&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </div>
 ---
-## 📂 Projetos Recentes
+
 
 <div align="center">
 
