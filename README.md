@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/3dkZSFc0Yn24DebLb3/giphy.gif" alt="Banner animado de IA" width="600"/>
+  <img src="https://media.giphy.com/media/3dkZSFc0Yn24DebLb3/giphy.gif" alt="Banner animado de IA" width="400"/>
 
   <h1 style="font-weight:900; color:#d7b3ff;">
     🚀 Raissa Anunciação — <strong>R4i5and0</strong>
