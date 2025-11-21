@@ -88,11 +88,12 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=7&theme=dracula&hide=hack,php"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=10&theme=dracula"/>
 
 </div>
+
 
 ---
 
@@ -129,32 +130,22 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 
 ---
 
-## 📂 Projetos Recentes
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<a href="https://github.com/R4i5and0/Aplicativo-Alternativo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=Aplicativo-Alternativo&theme=dracula" />
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<a href="https://github.com/R4i5and0/usuarios-api-crud">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=usuarios-api-crud&theme=dracula" />
-</a>
-
-<a href="https://github.com/R4i5and0/bootcamp-aws-dio-code-girl">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=bootcamp-aws-dio-code-girl&theme=dracula" />
-</a>
-
-<a href="https://github.com/R4i5and0/AplicBrain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=AplicBrain&theme=dracula" />
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=7&theme=dracula&hide=hack,php"/>
 
 </div>
 
 
-<a href="https://github.com/R4i5and0/AplicBrain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=AplicBrain&theme=dracula" />
-</a>
+---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=blueviolet"/>
 </div>
+
+
 
