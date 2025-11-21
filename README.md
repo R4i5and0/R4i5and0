@@ -104,22 +104,19 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 ## 👾🎮
 
 <div align="center">
-  <h2 style="color:#ffd900; font-family:'Press Start 2P';">
-    👾 PAC-MAN MODE: ON
+  <h2 style="color:#b47bff; font-weight:900; text-shadow:0 0 10px #c77dff;">
+    ⚡ Pac-Man no meu Grid de Commits
   </h2>
 
   <div style="
-    padding: 15px;
-    border-radius: 10px;
-    background:#000;
-    border:5px solid #ffd900;
+    padding: 20px;
+    border-radius: 20px;
+    background: rgba(110, 0, 255, 0.15);
+    backdrop-filter: blur(6px);
+    border: 2px solid #b47bff;
+    box-shadow: 0 0 15px #b47bff55;
   ">
     <img src="dist/pacman.svg" width="700">
   </div>
 </div>
 
-
-<!-- Usa o arquivo gerado pelo seu workflow -->
-![Pac-Man](dist/pacman.svg)
-
-</div>
