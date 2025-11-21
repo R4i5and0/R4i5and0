@@ -88,4 +88,14 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&cou_
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=7&theme=dracula&hide=hack,php"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=blueviolet" />
+</div>
