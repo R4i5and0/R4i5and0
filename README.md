@@ -99,3 +99,27 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=blueviolet" />
 </div>
+
+---
+
+## 📂 Últimas Atualizações
+
+<div align="center">
+
+<a href="https://github.com/R4i5and0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=Aplicativo-Alternativo&theme=dracula" />
+</a>
+
+<a href="https://github.com/R4i5and0/usuarios-api-crud">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=usuarios-api-crud&theme=dracula" />
+</a>
+
+</div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4i5and0&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</div>
+
