@@ -118,8 +118,16 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4i5and0&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </div>
+
 ---
 
+## 🔥 Atividade Recente
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4i5and0&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
 
 ## 📂 Projetos Recentes
 
@@ -136,6 +144,13 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 <a href="https://github.com/R4i5and0/bootcamp-aws-dio-code-girl">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=bootcamp-aws-dio-code-girl&theme=dracula" />
 </a>
+
+<a href="https://github.com/R4i5and0/AplicBrain">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=AplicBrain&theme=dracula" />
+</a>
+
+</div>
+
 
 <a href="https://github.com/R4i5and0/AplicBrain">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=AplicBrain&theme=dracula" />
