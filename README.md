@@ -110,10 +110,6 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=Aplicativo-Alternativo&theme=dracula" />
 </a>
 
-<a href="https://github.com/R4i5and0/usuarios-api-crud">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=usuarios-api-crud&theme=dracula" />
-</a>
-
 </div>
 
 ---
@@ -121,5 +117,27 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4i5and0&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</div>
+---
+## 📂 Projetos Recentes
+
+<div align="center">
+
+<a href="https://github.com/R4i5and0/Aplicativo-Alternativo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=Aplicativo-Alternativo&theme=dracula" />
+</a>
+
+<a href="https://github.com/R4i5and0/usuarios-api-crud">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=usuarios-api-crud&theme=dracula" />
+</a>
+
+<a href="https://github.com/R4i5and0/bootcamp-aws-dio-code-girl">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=bootcamp-aws-dio-code-girl&theme=dracula" />
+</a>
+
+<a href="https://github.com/R4i5and0/AplicBrain">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=AplicBrain&theme=dracula" />
+</a>
+
 </div>
 
