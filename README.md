@@ -22,7 +22,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-Há três anos, fiz minha transição de carreira para a área de TI. Hoje tenho base sólida em **infraestrutura, suporte técnico, redes e desenvolvimento**, com experiência prática em telecomunicações.
+Há três anos, fiz minha transição para a área de TI. Hoje tenho base sólida em **infraestrutura, suporte técnico, redes e desenvolvimento**, com experiência prática em telecomunicações.
 
 Meu objetivo é atuar na interseção entre **Segurança da Informação**, **Cloud Computing** e **Inteligência Artificial** — acredito que a nuvem é onde a IA prospera, e a segurança é o alicerce que garante confiança para sistemas inteligentes.
 
@@ -58,11 +58,10 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 <tr>
   <td align="center" width="120">Infraestrutura</td>
   <td align="center" width="120">Suporte Técnico</td>
-  <td align="center" width="120">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/><br>Hugging Face
-  </td>
+  <td align="center" width="120"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/><br>Hugging Face</td>
 </tr>
 </table>
+
 </div>
 
 ---
@@ -102,14 +101,11 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 
 ---
 
-<!-- PAC-MAN: positionado mais embaixo, conforme pedido -->
+## 🟡 Pac-Man Devouring My Commits 🍒👾
+
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-pacman.svg" alt="pacman eating commits" />
+
+<!-- Usa o arquivo gerado pelo seu workflow -->
+![Pac-Man](dist/pacman.svg)
+
 </div>
-
----
-
-<!-- Se quiser usar a versão local do arquivo que você enviou (fallback/exemplo),
-     o caminho local é: /mnt/data/9c2dcb2d-cf0d-4ed8-8896-c23eb8d445e5.png
-     (o sistema transforma esse caminho em URL automaticamente quando necessário) -->
-
