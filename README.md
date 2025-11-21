@@ -104,19 +104,19 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 ## 👾🎮
 
 <div align="center">
-  <h2 style="color:#b47bff; font-weight:900; text-shadow:0 0 10px #c77dff;">
-    ⚡ Pac-Man no meu Grid de Commits
+  <h2 style="color:#da9cff; font-weight:800;">
+    💜 Pac-Man perseguindo meus Commits
   </h2>
 
   <div style="
-    padding: 20px;
-    border-radius: 20px;
-    background: rgba(110, 0, 255, 0.15);
-    backdrop-filter: blur(6px);
-    border: 2px solid #b47bff;
-    box-shadow: 0 0 15px #b47bff55;
+    padding: 18px;
+    border-radius: 18px;
+    background: linear-gradient(135deg, #f0e1ff, #e8ccff);
+    border: 2px solid #d09cff;
+    box-shadow: 0 0 12px #d09cff66;
   ">
     <img src="dist/pacman.svg" width="700">
   </div>
 </div>
+
 
