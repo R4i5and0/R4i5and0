@@ -103,19 +103,14 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 
 ---
 
-## 📂 Últimas Atualizações
+![Snake animation](https://github.com/R4i5and0/R4i5and0/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-
-<a href="https://github.com/R4i5and0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=R4i5and0&repo=Aplicativo-Alternativo&theme=dracula" />
-</a>
-
-</div>
 
 ---
 
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-pacman.svg" />
+---
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4i5and0&theme=high-contrast&area=true&hide_border=true&animated=true" width="95%"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-pacman.svg" alt="pacman eating commits" />
 </div>
 
