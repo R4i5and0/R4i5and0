@@ -116,6 +116,6 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4i5and0&theme=purple&area=true&hide_border=true&radius=12&animated=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4i5and0&theme=high-contrast&area=true&hide_border=true&animated=true" width="95%"/>
 </div>
 
