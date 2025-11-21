@@ -2,17 +2,19 @@
 
   <img src="https://media.giphy.com/media/3dkZSFc0Yn24DebLb3/giphy.gif" alt="Banner animado de IA" width="600"/>
 
-  <h1>Olá, eu sou a Raissa Anunciação 👋</h1>
+  <h1 style="font-weight:900; color:#d7b3ff;">
+    🚀 Raissa Anunciação — <strong>R4i5and0</strong>
+  </h1>
 
   <h3>Desenvolvedora focada em Cloud, Segurança e Inteligência Artificial</h3>
   <h4>Último semestre de Análise e Desenvolvimento de Sistemas</h4>
 
   <p>
     <a href="mailto:raissaanunc@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/raissaanunciacaoagroutopia/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </p>
 
@@ -20,45 +22,52 @@
 
 ---
 
-## 👩‍💻 Sobre Mim
+## ✨ Sobre Mim
 
-Há três anos, fiz minha transição para a área de TI. Hoje tenho base sólida em **infraestrutura, suporte técnico, redes e desenvolvimento**, com experiência prática em telecomunicações.
+Sou apaixonada por tecnologia e há três anos fiz minha transição para TI. Tenho experiência prática em:
 
-Meu objetivo é atuar na interseção entre **Segurança da Informação**, **Cloud Computing** e **Inteligência Artificial** — acredito que a nuvem é onde a IA prospera, e a segurança é o alicerce que garante confiança para sistemas inteligentes.
+- **Infraestrutura e redes**
+- **Suporte técnico**
+- **Telecomunicações**
+- **Desenvolvimento backend e automações**
 
-Também tenho interesse em **tecnologia sustentável e soluções inovadoras responsáveis**.
+Meu foco atual é evoluir na tríade:
+
+🔐 **Segurança da Informação**  
+☁️ **Cloud Computing**  
+🧠 **Inteligência Artificial**
+
+Acredito que a nuvem é o ambiente ideal para IA crescer — e segurança é o que mantém tudo de pé.
 
 ---
 
-## 🛠️ Habilidades e Ferramentas
+## 🛠️ Habilidades
 
 <div align="center">
 
 <table>
 <tr>
-  <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40"/><br>Java</td>
-  <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python</td>
-  <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br>Node.js</td>
-  <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br>SQL</td>
-  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br>SQLite</td>
-  <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br>HTML5</td>
-  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git</td>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45"/><br>Java</td>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python</td>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br>Node.js</td>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/><br>SQLite</td>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>Git</td>
 </tr>
 
 <tr>
-  <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40"/><br>Android Studio</td>
-  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br>Jupyter</td>
-  <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="40"/><br>NetBeans</td>
-  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/><br>IntelliJ</td>
-  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/><br>Visual Studio</td>
-  <td align="center" width="120"><img src="https://dbeaver.com/img/dbeaver-head.png" width="40"/><br>DBeaver</td>
-  <td align="center" width="120"><img src="https://www.phpmyadmin.net/static/images/logo.png" width="40"/><br>phpMyAdmin</td>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/><br>Android Studio</td>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter</td>
+  <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="45"/><br>NetBeans</td>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/><br>IntelliJ</td>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45"/><br>Visual Studio</td>
+  <td align="center" width="120"><img src="https://dbeaver.com/img/dbeaver-head.png" width="45"/><br>DBeaver</td>
 </tr>
 
 <tr>
   <td align="center" width="120">Infraestrutura</td>
   <td align="center" width="120">Suporte Técnico</td>
-  <td align="center" width="120"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/><br>Hugging Face</td>
+  <td align="center" width="120"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br>Hugging Face</td>
 </tr>
 </table>
 
@@ -71,11 +80,11 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 <div align="center">
 <table>
 <tr>
-  <td align="center" width="150">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/><br>AWS Cloud Computing
+  <td align="center" width="160">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55"/><br>AWS Cloud
   </td>
-  <td align="center" width="150">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/><br>Inteligência Artificial
+  <td align="center" width="160">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="55"/><br>IA e Deep Learning
   </td>
 </tr>
 </table>
@@ -87,34 +96,33 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&border_color=9f7aea"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=10&theme=dracula&border_color=9f7aea"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=9f7aea" />
 </div>
 
 ---
 
+## 👾 Pac-Man Devouring My Commits
+
 <div align="center">
-  <h2 style="color:#da9cff; font-weight:800;">
-    👾🎮
-  </h2>
 
   <div style="
-    padding: 18px;
+    padding: 20px;
     border-radius: 18px;
-    background: linear-gradient(135deg, #f0e1ff, #e8ccff);
-    border: 2px solid #d09cff;
-    box-shadow: 0 0 12px #d09cff66;
+    background: linear-gradient(135deg, #f3e8ff, #e2c8ff);
+    border: 2px solid #c18fff;
+    box-shadow: 0 0 14px #c18fff77;
+    max-width: 750px;
   ">
     <img src="dist/pacman.svg" width="700">
   </div>
+
 </div>
-
-
