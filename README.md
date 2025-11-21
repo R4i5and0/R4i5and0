@@ -101,11 +101,9 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 
 ---
 
-## 👾🎮
-
 <div align="center">
   <h2 style="color:#da9cff; font-weight:800;">
-    💜 Pac-Man perseguindo meus Commits
+    👾🎮
   </h2>
 
   <div style="
