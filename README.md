@@ -22,22 +22,12 @@
 
 ---
 
-## ✨ Sobre Mim
+## 👩‍💻 Sobre Mim Há três anos, fiz minha transição de carreira para a área de TI. Essa jornada me proporcionou uma base em **infraestrutura**, com certificações em Suporte, Redes e Desenvolvimento Web, e experiência prática em **suporte técnico e telecomunicações**. 
+Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da Informação, Cloud Computing e Inteligência Artificial**. 
+Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce que garante a confiança nesses sistemas. 
+Por isso, estou me dedicando a aprender como construir e proteger essa nova geração de aplicações inteligentes. 
 
-Sou apaixonada por tecnologia e há três anos fiz minha transição para TI. Tenho experiência prática em:
-
-- **Infraestrutura e redes**
-- **Suporte técnico**
-- **Telecomunicações**
-- **Desenvolvimento backend e automações**
-
-Meu foco atual é evoluir na tríade:
-
-🔐 **Segurança da Informação**  
-☁️ **Cloud Computing**  
-🧠 **Inteligência Artificial**
-
-Acredito que a nuvem é o ambiente ideal para IA crescer — e segurança é o que mantém tudo de pé.
+💚 Também tenho um forte interesse em **sustentabilidade** e no potencial da tecnologia para criar soluções inovadoras e responsáveis. 
 
 ---
 
