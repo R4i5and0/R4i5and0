@@ -101,9 +101,23 @@ Também tenho interesse em **tecnologia sustentável e soluções inovadoras res
 
 ---
 
-## 🟡 Pac-Man Devouring My Commits 🍒👾
+## 👾🎮
 
 <div align="center">
+  <h2 style="color:#ffd900; font-family:'Press Start 2P';">
+    👾 PAC-MAN MODE: ON
+  </h2>
+
+  <div style="
+    padding: 15px;
+    border-radius: 10px;
+    background:#000;
+    border:5px solid #ffd900;
+  ">
+    <img src="dist/pacman.svg" width="700">
+  </div>
+</div>
+
 
 <!-- Usa o arquivo gerado pelo seu workflow -->
 ![Pac-Man](dist/pacman.svg)
