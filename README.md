@@ -102,7 +102,7 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 
 ---
 
-## 👾 Pac-Man Devouring My Commits
+## 👾 
 
 <div align="center">
 
