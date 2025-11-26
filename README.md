@@ -88,7 +88,7 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&border_color=9f7aea"/>
+  
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=10&theme=dracula&border_color=9f7aea"/>
 
