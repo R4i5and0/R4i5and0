@@ -93,7 +93,7 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 
 ---
 
-## 👾 Snake Game das Contribuições
+## 👾 Contribuições
 
 <div align="center">
   <img src="https://github.com/R4i5and0/R4i5and0/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
