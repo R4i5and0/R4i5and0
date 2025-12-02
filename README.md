@@ -93,7 +93,6 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=9f7aea" />
 </div>
-
 ---
 
 ## 👾 Snake Game das Contribuições
