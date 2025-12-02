@@ -24,8 +24,8 @@
 
 ## 👩‍💻 Sobre Mim
 
-Há três anos, fiz minha transição de carreira para a área de TI. Essa jornada me proporcionou uma base em **infraestrutura**, com certificações em Suporte, Redes e Desenvolvimento Web, e experiência prática em **suporte técnico e telecomunicações**.
-Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da Informação, Cloud Computing e Inteligência Artificial**.
+Há três anos, fiz minha transição de carreira para a área de TI. Essa jornada me proporcionou uma base em **infraestrutura**, com certificações em Suporte, Redes e Desenvolvimento Web, e experiência prática em **suporte técnico e telecomunicações**.  
+Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da Informação, Cloud Computing e Inteligência Artificial**.  
 Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce que garante a confiança nesses sistemas. Por isso, estou me dedicando a aprender como construir e proteger essa nova geração de aplicações inteligentes.
 
 💚 **Também tenho um forte interesse em sustentabilidade e no potencial da tecnologia para criar soluções inovadoras e responsáveis.**
@@ -84,15 +84,19 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=7&theme=dracula"/>
+  <!-- Estatísticas gerais -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=14400&v=2"/>
+
+  <!-- Linguagens mais usadas -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=7&theme=dracula&hide=html,css&exclude_repo=R4i5and0.github.io&cache_seconds=14400&v=2"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=9f7aea" />
+  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES%20NO%20PERFIL&color=9f7aea" />
 </div>
+
 ---
 
 ## 👾 Snake Game das Contribuições
@@ -100,4 +104,3 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 <div align="center">
   <img src="https://github.com/R4i5and0/R4i5and0/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
-
