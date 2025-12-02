@@ -84,28 +84,31 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 
 ---
 
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-  
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=10&theme=dracula&border_color=9f7aea"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=10&theme=dracula&border_color=9f7aea&cache_seconds=7200"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=9f7aea" />
+  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES%20NO%20PERFIL&color=9f7aea" />
 </div>
 
 ---
 
-## 👾 
+## 👾 Snake Game das Contribuições
 
 <div align="center">
+  <img src="https://github.com/R4i5and0/R4i5and0/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</div>
 
+---
+
+<div align="center">
   <div style="
     padding: 20px;
     border-radius: 18px;
@@ -116,5 +119,4 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
   ">
     <img src="dist/pacman.svg" width="700">
   </div>
-
 </div>
