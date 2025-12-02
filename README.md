@@ -1,5 +1,4 @@
 <div align="center">
-
   <img src="https://media.giphy.com/media/3dkZSFc0Yn24DebLb3/giphy.gif" alt="Banner animado de IA" width="400"/>
 
   <h1 style="font-weight:900; color:#d7b3ff;">
@@ -17,7 +16,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </p>
-
 </div>
 
 ---
@@ -26,7 +24,6 @@
 
 Há três anos, fiz minha transição de carreira para a área de TI. Essa jornada me proporcionou uma base em **infraestrutura**, com certificações em Suporte, Redes e Desenvolvimento Web, e experiência prática em **suporte técnico e telecomunicações**.
 Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da Informação, Cloud Computing e Inteligência Artificial**.
-Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce que garante a confiança nesses sistemas. Por isso, estou me dedicando a aprender como construir e proteger essa nova geração de aplicações inteligentes.
 
 💚 **Também tenho um forte interesse em sustentabilidade e no potencial da tecnologia para criar soluções inovadoras e responsáveis.**
 
@@ -35,7 +32,6 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 ## 🛠️ Habilidades
 
 <div align="center">
-
 <table>
   <tr>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45"/><br>Java</td>
@@ -53,13 +49,7 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45"/><br>Visual Studio</td>
     <td align="center" width="120"><img src="https://dbeaver.com/img/dbeaver-head.png" width="45"/><br>DBeaver</td>
   </tr>
-  <tr>
-    <td align="center" width="120">Infraestrutura</td>
-    <td align="center" width="120">Suporte Técnico</td>
-    <td align="center" width="120"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br>Hugging Face</td>
-  </tr>
 </table>
-
 </div>
 
 ---
@@ -67,49 +57,28 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 ## 📚 Atualmente Estudando
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/><br>AWS Cloud
-      </td>
-      <td align="center" width="150">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/><br>IA & ML
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow%20(IA)-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=9f7aea"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=7&theme=dracula&border_color=9f7aea"/>
-  </a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES&color=9f7aea" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES_NO_PERFIL&color=9f7aea" />
-</div>
-
----
-
-## 👾 Contribuições
+## 👾 Contribuições (Pac-Man)
 
 <div align="center">
-  <div style="
-    padding: 20px;
-    border-radius: 18px;
-    background: linear-gradient(135deg, #f3e8ff, #e2c8ff);
-    border: 2px solid #c18fff;
-    box-shadow: 0 0 14px #c18fff77;
-    max-width: 750px;
-  ">
-    <img src="https://raw.githubusercontent.com/R4i5and0/R4i5and0/output/dist/github-contribution-grid-snake.svg" alt="Snake animation das contribuições" width="100%">
-  </div>
-
+  <img src="https://raw.githubusercontent.com/R4i5and0/R4i5and0/main/dist/pacman.svg" width="100%" alt="Pacman Animation"/>
 </div>
