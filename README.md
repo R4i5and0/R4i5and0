@@ -98,10 +98,18 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 
 ---
 
-## 👾 Snake Game
+## 👾 Contribuições (Snake Game)
 
 <div align="center">
-  <div style="padding: 20px; border-radius: 18px; background: linear-gradient(135deg, #f3e8ff, #e2c8ff); border: 2px solid #c18fff; box-shadow: 0 0 14px #c18fff77; max-width: 750px;">
-    <img src="https://github.com/R4i5and0/R4i5and0/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%"/>
+  <div style="
+    padding: 20px;
+    border-radius: 18px;
+    background: linear-gradient(135deg, #f3e8ff, #e2c8ff);
+    border: 2px solid #c18fff;
+    box-shadow: 0 0 14px #c18fff77;
+    max-width: 750px;
+  ">
+    <img src="https://raw.githubusercontent.com/R4i5and0/R4i5and0/output/github-contribution-grid-snake.svg" alt="Snake animation das contribuições" width="100%">
   </div>
+
 </div>
