@@ -1,7 +1,11 @@
 name: Gerar gráfico de contribuição do Pac-Man
 
 on:
+  # Permite rodar manualmente (como você fez)
   workflow_dispatch:
+  # Roda automaticamente a cada 24 horas (meia-noite)
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -17,14 +21,16 @@ jobs:
       - name: Gerar animação Pac-Man
         uses: Platane/snk@v3
         with:
-          github_user_name: R4i5and0
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/pacman.svg
+            dist/pacman-dark.svg?palette=github-dark
 
       - name: Commitar arquivo no repositório
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add dist/pacman.svg
+          git add dist/pacman.svg dist/pacman-dark.svg
+          # O comando abaixo só commita se tiver mudança, evitando erro se não tiver novos commits
           git commit -m "Atualiza gráfico Pac-Man" || echo "Nenhuma mudança para commitar"
           git push
