@@ -84,7 +84,7 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Streak (mais estável que o Top Languages) -->
+  <!-- Streak (mais estável que Top Languages) -->
   <img height="180" src="https://streak-stats.demolab.com/?user=R4i5and0&theme=dracula&hide_border=true"/>
 
   <!-- Estatísticas gerais -->
