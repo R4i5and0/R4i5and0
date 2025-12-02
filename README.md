@@ -85,8 +85,8 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=9f7aea"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=7&theme=dracula&border_color=9f7aea"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=9f7aea"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=7&theme=dracula&border_color=9f7aea"/>
   </a>
 </div>
 
@@ -109,7 +109,7 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
     box-shadow: 0 0 14px #c18fff77;
     max-width: 750px;
   ">
-    <img src="https://raw.githubusercontent.com/R4i5and0/R4i5and0/main/dist/pacman.svg" alt="Snake animation das contribuições" width="100%">
+    <img src="https://raw.githubusercontent.com/R4i5and0/R4i5and0/output/dist/github-contribution-grid-snake.svg" alt="Snake animation das contribuições" width="100%">
   </div>
 
 </div>
