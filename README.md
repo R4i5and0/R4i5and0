@@ -84,17 +84,21 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 
 ---
 
----
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=10&theme=dracula&border_color=9f7aea&cache_seconds=7200"/>
+  <!-- Force refresh + cache alto para evitar rate limit e imagens quebradas -->
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&langs_count=10&theme=dracula&border_color=9f7aea&cache_seconds=14400&v=2"
+  />
 </div>
 
 ---
 
 <div align="center">
+  <!-- Label com espaço precisa ser %20 -->
   <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES%20NO%20PERFIL&color=9f7aea" />
 </div>
 
@@ -106,17 +110,3 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
   <img src="https://github.com/R4i5and0/R4i5and0/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
 
----
-
-<div align="center">
-  <div style="
-    padding: 20px;
-    border-radius: 18px;
-    background: linear-gradient(135deg, #f3e8ff, #e2c8ff);
-    border: 2px solid #c18fff;
-    box-shadow: 0 0 14px #c18fff77;
-    max-width: 750px;
-  ">
-    <img src="dist/pacman.svg" width="700">
-  </div>
-</div>
