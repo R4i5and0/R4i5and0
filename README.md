@@ -34,18 +34,12 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 
 ---
 
-## 🏆 Certificações
+## 🏆 Certificações Oficiais
 
-<div align="center">
-  <a href="https://www.credly.com/users/raissa-anunciacao/badges" target="_blank">
-    <img src="https://images.credly.com/images/85352c22-b258-450f-90ce-0d58309e7f8e/image.png" height="150" alt="AWS Certified AI Practitioner"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/users/raissa-anunciacao/badges" target="_blank">
-    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="150" alt="AWS Certified Cloud Practitioner"/>
-  </a>
-</div>
+> Clique nos links abaixo para verificar a autenticidade das credenciais no Credly:
 
+### 🥇 [AWS Certified AI Practitioner (Ver Credencial)](https://www.credly.com/users/raissa-anunciacao/badges#credly)
+### ☁️ [AWS Certified Cloud Practitioner (Ver Credencial)](https://www.credly.com/badges/86a7f7ce-16b6-49e3-94ef-83bd86303fd7)
 
 ---
 
@@ -81,21 +75,43 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 
 ---
 
-## 📚 Atualmente Estudando
+## 📚 Aprendizado & Prática
 
 <div align="center">
+
+  <h3 style="color:#d7b3ff;">🚀 Infraestrutura & DevOps (Estudando)</h3>
   <table>
     <tr>
-      <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/><br>AWS Cloud
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br>Linux
       </td>
-      <td align="center" width="150">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/><br>IA & ML
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/><br>Docker<br>(Containers)
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/><br>Kubernetes
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/><br>Terraform
       </td>
     </tr>
   </table>
-</div>
 
+  <br>
+
+  <h3 style="color:#9f7aea;">🧠 IA Generativa AWS (Praticando)</h3>
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://www.vectorlogo.zone/logos/amazon_sagemaker/amazon_sagemaker-icon.svg" width="45"/><br>Amazon<br>SageMaker
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30"/><br><br>Amazon<br>Bedrock
+      </td>
+    </tr>
+  </table>
+
+</div>
 ---
 
 
