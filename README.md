@@ -24,11 +24,27 @@
 
 ## 👩‍💻 Sobre Mim
 
-Há três anos, fiz minha transição de carreira para a área de TI. Essa jornada me proporcionou uma base em **infraestrutura**, com certificações em Suporte, Redes e Desenvolvimento Web, e experiência prática em **suporte técnico e telecomunicações**.  
-Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da Informação, Cloud Computing e Inteligência Artificial**.  
-Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce que garante a confiança nesses sistemas. Por isso, estou me dedicando a aprender como construir e proteger essa nova geração de aplicações inteligentes.
+Há três anos, iniciei minha transição para a tecnologia. Trago uma vivência prática em infraestrutura, redes e manutenção de hardware, onde atuei de forma autônoma resolvendo problemas técnicos reais.
+
+Agora, recém-graduada em ADS, uno essa base à estratégia de **Cloud Computing, Segurança da Informação e IA**.
+
+Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce que garante a confiança nesses sistemas. Por isso, meu foco é saber proteger essa nova geração de aplicações.
 
 💚 **Também tenho um forte interesse em sustentabilidade e no potencial da tecnologia para criar soluções inovadoras e responsáveis.**
+
+---
+
+## 🏆 Certificações
+
+<div align="center">
+  <a href="https://www.credly.com/users/raissa-anunciacao/badges" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/85352c22-b258-450f-90ce-0d58309e7f8e/image.png" height="150" alt="AWS Certified AI Practitioner"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/raissa-anunciacao/badges" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="150" alt="AWS Certified Cloud Practitioner"/>
+  </a>
+</div>
 
 ---
 
@@ -78,18 +94,6 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
     </tr>
   </table>
 </div>
-
----
-
- <!--## 📊 Estatísticas do GitHub
-
-<div align="center">
-  Streak (mais estável que Top Languages) -->
- <!--  <img height="180" src="https://streak-stats.demolab.com/?user=R4i5and0&theme=dracula&hide_border=true"/>
-
-  <!-- Estatísticas gerais 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=14400&v=3"/>
-</div>-->
 
 ---
 
