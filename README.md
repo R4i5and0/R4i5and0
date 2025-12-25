@@ -38,8 +38,7 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 
 <div align="center">
   <a href="https://www.credly.com/users/raissa-anunciacao/badges" target="_blank">
-    <img src="<img width="600" height="600" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/ce4ec82e-52df-4135-add3-0fbc5b92eef7" />
-" height="150" alt="AWS Certified AI Practitioner"/>
+    <img src="https://images.credly.com/size/340x340/images/85352c22-b258-450f-90ce-0d58309e7f8e/image.png" height="150" alt="AWS Certified AI Practitioner"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/raissa-anunciacao/badges" target="_blank">
@@ -97,6 +96,8 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 </div>
 
 ---
+
+ ---
 
 ## 👾 Contribuições
 
