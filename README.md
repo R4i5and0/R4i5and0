@@ -38,7 +38,7 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 
 > Clique nos links abaixo para verificar a autenticidade das credenciais no Credly:
 
-### 🥇 [AWS Certified AI Practitioner (Ver Credencial)](https://www.credly.com/users/raissa-anunciacao/badges#credly)
+### 🥇 [AWS Certified AI Practitioner (Ver Credencial)](https://www.credly.com/badges/d5cf7328-7dad-4858-8b12-4e2c0606617c)
 ### ☁️ [AWS Certified Cloud Practitioner (Ver Credencial)](https://www.credly.com/badges/86a7f7ce-16b6-49e3-94ef-83bd86303fd7)
 
 ---
