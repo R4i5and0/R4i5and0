@@ -1,19 +1,20 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/3dkZSFc0Yn24DebLb3/giphy.gif" alt="Banner animado de IA" width="100%"/>
+  <img src="https://media.giphy.com/media/3dkZSFc0Yn24DebLb3/giphy.gif" alt="Banner animado de IA" width="400"/>
 
   <h1 style="font-weight:900; color:#d7b3ff;">
-    Raissa Anunciação — <span style="color:#9f7aea">R4i5and0</span>
+    Raissa Anunciação — <strong>R4i5and0</strong>
   </h1>
 
-  <h3>☁️ Cloud Computing | 🔒 Cibersegurança | 🤖 Inteligência Artificial</h3>
-  
+  <h3>Desenvolvedora focada em Cloud, Segurança e Inteligência Artificial</h3>
+  <h4>Último semestre de Análise e Desenvolvimento de Sistemas</h4>
+
   <p>
-    <a href="https://www.linkedin.com/in/raissaanunciacaoagroutopia/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
     <a href="mailto:raissaanunc@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/raissaanunciacaoagroutopia/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </p>
 
@@ -23,66 +24,82 @@
 
 ## 👩‍💻 Sobre Mim
 
-Há três anos, iniciei minha transição para a tecnologia. Trago uma vivência prática em infraestrutura, redes e manutenção de hardware, onde atuei de forma autônoma resolvendo problemas técnicos reais. 
+Há três anos, fiz minha transição de carreira para a área de TI. Essa jornada me proporcionou uma base em **infraestrutura**, com certificações em Suporte, Redes e Desenvolvimento Web, e experiência prática em **suporte técnico e telecomunicações**.  
+Atualmente, meu grande objetivo é atuar na intersecção entre **Segurança da Informação, Cloud Computing e Inteligência Artificial**.  
+Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce que garante a confiança nesses sistemas. Por isso, estou me dedicando a aprender como construir e proteger essa nova geração de aplicações inteligentes.
 
-Agora, recém-graduada em ADS, uno essa base à estratégia de **Cloud Computing, Segurança da Informação e IA**.
-
-Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce que garante a confiança nesses sistemas. Por isso, meu foco é saber proteger essa nova geração de aplicações.
-
-💚 **Tenho um forte interesse em sustentabilidade e no potencial da tecnologia para criar soluções inovadoras e responsáveis (Green Cloud).**
+💚 **Também tenho um forte interesse em sustentabilidade e no potencial da tecnologia para criar soluções inovadoras e responsáveis.**
 
 ---
 
-## 🏆 Certificações
-
-<div align="center">
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="120" alt="AWS Certified Cloud Practitioner"/>
-  <img src="https://images.credly.com/size/340x340/images/d316a7e0-47c3-4416-953e-55c328904533/image.png" height="120" alt="AWS Certified AI Practitioner"/>
-</div>
-
----
-
-## 🛠️ Tech Stack & Ferramentas
+## 🛠️ Habilidades
 
 <div align="center">
 
-### ☁️ Cloud & Infraestrutura
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-### 🤖 Inteligência Artificial & Dados
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-### 💻 Desenvolvimento & Ferramentas
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45"/><br>Java</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Python</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/><br>Node.js</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/><br>SQLite</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>Git</td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/><br>Android Studio</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br>Jupyter</td>
+    <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="45"/><br>NetBeans</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/><br>IntelliJ</td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45"/><br>Visual Studio</td>
+    <td align="center" width="120"><img src="https://dbeaver.com/img/dbeaver-head.png" width="45"/><br>DBeaver</td>
+  </tr>
+  <tr>
+    <td align="center" width="120">Infraestrutura</td>
+    <td align="center" width="120">Suporte Técnico</td>
+    <td align="center" width="120"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br>Hugging Face</td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 Estatísticas
+## 📚 Atualmente Estudando
 
 <div align="center">
-  <a href="https://github.com/R4i5and0">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4i5and0&layout=compact&theme=dracula"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/><br>AWS Cloud
+      </td>
+      <td align="center" width="150">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/><br>IA & ML
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
+---
+
+ <!--## 📊 Estatísticas do GitHub
+
+<div align="center">
+  Streak (mais estável que Top Languages) -->
+ <!--  <img height="180" src="https://streak-stats.demolab.com/?user=R4i5and0&theme=dracula&hide_border=true"/>
+
+  <!-- Estatísticas gerais 
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=R4i5and0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=14400&v=3"/>
+</div>-->
+
+---
+
+## 👾 Contribuições
 
 <div align="center">
   <img src="https://github.com/R4i5and0/R4i5and0/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
 
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES&color=9f7aea&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=R4i5and0&label=VISITANTES%20NO%20PERFIL&color=9f7aea" />
 </div>
