@@ -38,7 +38,7 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
 
 > Clique nos links abaixo para verificar a autenticidade das credenciais no Credly:
 
-### 🥇 [AWS Certified AI Practitioner (Ver Credencial)](https://www.credly.com/badges/d5cf7328-7dad-4858-8b12-4e2c0606617c)
+### 🥇 [AWS Certified AI Practitioner (Ver Credencial)](https://www.credly.com/users/raissa-anunciacao/badges#credly)
 ### ☁️ [AWS Certified Cloud Practitioner (Ver Credencial)](https://www.credly.com/badges/86a7f7ce-16b6-49e3-94ef-83bd86303fd7)
 
 ---
@@ -65,8 +65,8 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
     <td align="center" width="120"><img src="https://dbeaver.com/img/dbeaver-head.png" width="45"/><br>DBeaver</td>
   </tr>
   <tr>
-    <td align="center" width="120">Infraestrutura</td>
-    <td align="center" width="120">Suporte Técnico</td>
+    <td align="center" width="120"><span style="font-size: 45px;">🖥️</span><br>Infraestrutura</td>
+    <td align="center" width="120"><span style="font-size: 45px;">🛠️</span><br>Suporte Técnico</td>
     <td align="center" width="120"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br>Hugging Face</td>
   </tr>
 </table>
@@ -103,15 +103,16 @@ Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce
   <table>
     <tr>
       <td align="center" width="150">
-        <img src="https://www.vectorlogo.zone/logos/amazon_sagemaker/amazon_sagemaker-icon.svg" width="45"/><br>Amazon<br>SageMaker
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/><br>Amazon<br>SageMaker
       </td>
       <td align="center" width="150">
-        <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30"/><br><br>Amazon<br>Bedrock
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/><br>Amazon<br>Bedrock
       </td>
     </tr>
   </table>
 
 </div>
+
 ---
 
 
