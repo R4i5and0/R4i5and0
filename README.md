@@ -7,7 +7,6 @@
   </h1>
 
   <h3>Desenvolvedora focada em Cloud, Segurança e Inteligência Artificial</h3>
-  <h4>Último semestre de Análise e Desenvolvimento de Sistemas</h4>
 
   <p>
     <a href="mailto:raissaanunc@gmail.com">
