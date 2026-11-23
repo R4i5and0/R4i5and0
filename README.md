@@ -24,7 +24,7 @@
 
 Há três anos, iniciei minha transição para a tecnologia. Trago uma vivência prática em infraestrutura, redes e manutenção de hardware, onde atuei de forma autônoma resolvendo problemas técnicos reais.
 
-Agora, recém-graduada em ADS, uno essa base à estratégia de **Cloud Computing, Segurança da Informação e IA**.
+Formanda em ADS, uno essa base à estratégia de **Cloud Computing, Segurança da Informação e IA**.
 
 Acredito que a nuvem é o campo onde a IA prospera, e a segurança é o alicerce que garante a confiança nesses sistemas. Por isso, meu foco é saber proteger essa nova geração de aplicações.
 
